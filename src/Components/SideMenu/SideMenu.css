@@ -1,0 +1,11 @@
+.side-menu {
+    width: 200px;
+    height: 100%;
+    background-color: #f2f2f2;
+    
+}
+  
+.app {
+    display: flex;
+    
+}
